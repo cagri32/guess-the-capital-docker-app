@@ -1,1 +1,1 @@
-# guess-the-capital-docker-app
+# coding-project-template
